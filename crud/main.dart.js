@@ -35856,14 +35856,14 @@ $0(){this.a.tc()},
 $S:2}
 A.on.prototype={
 O(a,b){var s=null
-return A.aap(A.ada(A.ha("Pagina power",s,s,s,s,s,s)),A.PL(A.c([A.ha("Estamos en Admin bienvenido! ",s,s,s,s,s,s),A.aan(A.ha("Salir",s,s,s,s,s,s),s,new A.X9(b),s)],t.Ma),B.cw,B.cx),s)}}
+return A.aap(A.ada(A.ha("Administradores",s,s,s,s,s,s)),A.PL(A.c([A.ha("Bienvenido Administrador. ",s,s,s,s,s,s),A.aan(A.ha("Salir",s,s,s,s,s,s),s,new A.X9(b),s)],t.Ma),B.cw,B.cx),s)}}
 A.X9.prototype={
 $0(){var s=t.c
 A.W6(this.a,"/LoginPage",s,s)},
 $S:2}
 A.px.prototype={
 O(a,b){var s=null
-return A.aap(A.ada(A.ha("Pagina power",s,s,s,s,s,s)),A.PL(A.c([A.ha("Estamos en ventas",s,s,s,s,s,s),A.aan(A.ha("Salir",s,s,s,s,s,s),s,new A.a1C(b),s)],t.Ma),B.cw,B.cx),s)}}
+return A.aap(A.ada(A.ha("Vendedores.",s,s,s,s,s,s)),A.PL(A.c([A.ha("Bienvenido Vendedor!",s,s,s,s,s,s),A.aan(A.ha("Salir",s,s,s,s,s,s),s,new A.a1C(b),s)],t.Ma),B.cw,B.cx),s)}}
 A.a1C.prototype={
 $0(){var s=t.c
 A.W6(this.a,"/LoginPage",s,s)},
